@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChallengeGenerator</string>
+    <string name="hit_me">ADD!</string>
+    <string name="_10_minutes">10 minutes</string>
+    <string name="wash_the_dishes">Wash the dishes</string>
+    <string name="desc">description</string>
+</resources>
